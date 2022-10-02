@@ -73,7 +73,7 @@
           {{ exp.title }}
         </div>
         <div class="block-subtitle">
-          {{ exp.duration }} | {{ exp.company }}
+          {{ exp.duration }} | <a name="{{ exp.company }}">{{ exp.company }}</a>
         </div>
         <div class="block-content">
           {{ exp.description }}
@@ -99,6 +99,21 @@
         <div class="block-content">
           {{ project.description }}
         </div>
+        <div class="block-content">
+          Tech: {{ project.tech }}
+        </div>
+        {% if project.links %}
+        <div class="block-content">
+          Project Link:
+          {% for link in project.links %}
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {{ link.title }}
+            </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
       </div>
       {% endfor %}
     </div>

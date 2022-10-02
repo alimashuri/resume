@@ -1,56 +1,367 @@
-title: Résumé
+title: Ali Mashuri
 resume:
-  name: YOUR NAME
-  jobtitle: Your Job Title
+  name: Ali Mashuri
+  jobtitle: Senior Mobile Engineer
   contact:
     - icon: fa-envelope
-      text: youremail@example.com
+      text: ali@mashuri.web.id
     - icon: fa-phone-square
-      text: your-phone-num
+      text: '(+62) 856 4042 0427'
+      link: tel://+6285640420427
     - icon: fa-globe
-      text: your-website.com
-      link: https://crispgm.github.io/resume/resume.html
+      text: https://mashuri.web.id
+      link: https://mashuri.web.id
     - icon: fa-github
-      text: your-github
-      link: https://github.com/crispgm/resume
+      text: https://github.com/alimashuri
+      link: https://github.com/alimashuri
   education:
-    - university: Your First University
-      duration: Jul 2011 - Dec 2012
-      location: Consectetur adipiscing elit
-      major: Lorem ipsum dolor sit amet
-    - university: Your Second University
-      duration: Aug 2007 - Jun 2011
-      location: Ut enim ad minim veniam
-      major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    - university: IST AKPRIND YOGYAKARTA
+      duration: 2006 - 2011
+      location: YOGYAKARTA
+      major: Informatic Engineering
   skills:
-    - title: Skill Group 1
-      items: Lorem, Ipsum, Dolor, Sit, Amet
-    - title: Skill Group 2
-      items: Consectetur, Adipiscing, Elit
-    - title: Skill Group 3
-      items: Sed do, Eiusmod, Tempor, Incididunt
+    - title: Mobile Engineer
+      items: Mobile engineer with more than several years of experience. I have experiences in a variety of projects from the early stages of concept to completion. Speak Swift, Kotlin and flutter as well.
   experience:
-    - title: Job Title 1
-      duration: Apr 2016 - Now
-      company: Your 1st, Inc.
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    - title: Job Title 2
-      duration: Apr 2013 - Mar 2016
-      company: Your 2nd, Inc.
-      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    - title: Job Title 3
-      duration: Dec 2011 - Mar 2012
-      company: Your 3rd Co, Ltd.
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - title: Lead Mobile Engineer
+      duration: Jan 2017 - Present
+      company: PT Ansvia.
+      description: At Ansvia I'm working on several project based mobile applications, using native (android & iOS) & flutter, building realtime chat applications, social media for enterprise and managing mobile team members to achieve company goals as a software house company.<br />My responsibilities:<br />
+                  - Leading mobile team (Android & iOS)<br />
+                  - Manage tasks between engineers in a team.<br />
+                  - Research and develop about new mobile technologies, bringing a smart behavior on the app. <br />
+                  - Control quality of code<br />
+                  - Setup CI/CD for mobile apps<br />
+                  - Research for mobile technology<br />
+
+    - title: Lead iOS Engineer
+      duration: Okt 2012 - Dec 2016
+      company: PT Sebangsa Bersama.
+      description: At Sebangsa Bersama I'm working on with iOS team, build social media apps for iOS.<br />
+                  My responsibilities:<br />
+                  - Leading a small team to achieve goal within tight deadline, provide both technical and management Control to Project and Team
+                  - Prepare project environment, find suitable 3rd party library for sebangsa apps.<br />
+                  - Developing, publish and maintenance an iOS application.<br />
+                  - Do some reasearch and learn new iOS technology or new SDK Api's.<br />
+    - title: iOS Engineer
+      duration: Jan 2013 - Dec 2020
+      company: PT Gamatechno Indonesia.
+      description: Working as a remote iOS developer since 2013, build, publish and maintain native iOS apps, implement client side using socket for realtime apps, suggest for apps design and API security.
+    - title: Web Developer
+      duration: Jul 2011 - Sep 2012
+      company: PT Saling Silang.
+      description: As a web developer, I am developing tentukan.com, a survey and polling website, built using php for server side and javascript for embedded widget for website.
   projects:
-    - name: Project Name 1
-      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      contribution: Contributor.
-    - name: Project Name 2
-      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - name: Kaleyo Smart Task
+      year: 2021-Present
+      description: Smart task management app (android & iOS) for bebek Kaleyo employees.
       contribution: Creator and maintainer.
+      tech: flutter with bloc architecture, firebase, sqlite.
+      links: 
+        - url: https://apps.apple.com/id/app/kaleyo-smart-task/id1601418359
+          title: iOS
+        - url: https://play.google.com/store/apps/details?id=com.kaleyo.app
+          title: Android
+      company: Self Employee / Freelance.
+
+    - name: BCA Young Community
+      year: 2021-Present
+      description: Social media app for BCA Solitaire & BCA Prioritas customers.
+      contribution: Creator and maintainer.
+      tech: Built using flutter, graphql, Bloc, web socket, firebase, sqlite.
+      links: 
+        - url: https://apps.apple.com/id/app/bca-young-community/id1585153742
+          title: iOS
+        - url: https://play.google.com/store/apps/details?id=com.bca.byc
+          title: Android
+      company: PT Ansvia.
+    - name: RACTA
+      year: 2020-Present
+      description: RACTA merupakan sebuah aplikasi sistem manajemen perusahaan untuk mengelola organisasi dan berbagai komponen lain pada perusahaan.
+      contribution: Creator and maintainer.
+      tech: Built using flutter, graphql, Bloc, web socket, firebase, sqlite.
+      links: 
+        - url: https://apps.apple.com/id/app/racta/id1485847165
+          title: iOS
+        - url: https://play.google.com/store/apps/details?id=com.ansvia.racta
+          title: Android
+      company: PT Ansvia.
+
+    - name: Detax
+      year: 2019
+      description: Detax, short for "Detection Hoax" is a system designed and built using the latest technology as an accurate hoax detector. Detax offers ease of use.
+      contribution: Creator and maintainer.
+      tech: Built using flutter, graphql, Bloc, web socket, firebase, sqlite.
+      links: 
+        - url: https://apps.apple.com/id/app/detax/id1471934682
+          title: iOS
+        - url: https://play.google.com/store/apps/details?id=org.detax
+          title: Android
+      company: PT Ansvia.
+
+    - name: Elefin.id
+      year: 2019
+      description: Market place app, display product, handle payment and shipment.
+      contribution: Creator and maintainer.
+      tech: Built using flutter, graphql, Bloc, firebase, sqlite.
+      links: 
+        - url: https://play.google.com/store/apps/details?id=id.elefin
+          title: Android
+      company: PT Ansvia.
+
+    - name: ENCO.ID
+      year: 2020
+      description: E-wallet app, Top Up, PPOB.
+      contribution: Creator and maintainer.
+      tech: flutter, bloc.
+      company: PT Ansvia.
+      
+    - name: BCA MC2
+      year: 2017-Present
+      description: Enterprise social media for BCA Employee, distributed internal B2B.
+      contribution: Creator and maintainer.
+      tech: Swift, Java, Kotlin, Realm, Web Socket, thrift.
+      company: PT Ansvia.
+
+    - name: Disinisharing
+      year: 2017-Present
+      description: Enterprise social media for Djarum Employee, with digital library & realtime chat distributed internal B2B.
+      contribution: Maintainer.
+      tech: Built using flutter, graphql, Bloc, web socket, firebase, sqlite.
+      links: 
+        - url: https://apps.apple.com/id/app/bca-young-community/id1585153742
+          title: iOS
+        - url: https://play.google.com/store/apps/details?id=com.bca.byc
+          title: Android
+      company: PT Ansvia.
+
+    - name: EurekaEveryday
+      year: 2021-2022
+      description: Enterprise social media for Bukit Maria Jaya (Djarum) Employee, distributed internal B2B.
+      contribution: Maintainer.
+      tech: Built using flutter, graphql, Bloc, web socket, firebase, sqlite.
+      links: 
+        - url: https://apps.apple.com/id/app/bca-young-community/id1585153742
+          title: iOS
+        - url: https://play.google.com/store/apps/details?id=com.bca.byc
+          title: Android
+      company: PT Ansvia.
+
+    - name: My Mitsubishi Motors Indonesia
+      year: 2019-2021
+      description: 
+        - Create existing app feature to enable displayed in head unit using WebLink SDK. (2019).<br />
+        - Integrating External Accessory Framework to display & control navigation in JVC Kenwood Head Unit. (2021)
+      contribution: Maintainer.
+      tech: swift, mmvm, weblink sdk, EAFrameworks.
+      links: 
+        - url: https://apps.apple.com/id/app/my-mitsubishi-motors-id/id1280830456
+          title: iOS
+      company: PT Ansvia.
+
+    - name: Pakaryo
+      year: 2020
+      description: SAAS Task Management, Monitoring & CRM, Handle multiple company and organization in app.
+      contribution: Creator and maintainer.
+      tech: swift, mmvm & reactivex architecture.
+      links: 
+        - url: https://apps.apple.com/id/app/pakaryo/id1534676958?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+
+    - name: MyBluebird Taxi
+      year: 2020
+      description: Integrating iSaku payment for mybb iOS.
+      contribution: Maintainer.
+      tech: Swift, RxSwift, Realm, CFNetwork, Alamofire.
+      links: 
+        - url: https://apps.apple.com/id/app/mybluebird-taxi/id476533261
+          title: iOS
+      company: Self Employee / Freelance.
+
+    - name: Sahabat UGM
+      year: 2019
+      description: Sahabat UGM is app for charity & donation, integrated with payment gateway.
+      contribution: Creator and maintainer.
+      tech: Swift, Realm, CFNetwork, Alamofire.
+      company: PT Gamatechno Indonesia.
+      
+    - name: I-toll
+      year: 2019
+      description: Indonesian toll road information app, show route, traffic, realtime cctv.
+      contribution: Creator and maintainer.
+      tech: Swift, Realm, CFNetwork, Alamofire, Web Socket.
+      links: 
+        - url: https://apps.apple.com/id/app/i-toll/id1323921827
+          title: iOS
+      company: PT Gamatechno Indonesia.
+          
+    - name: Intersport.id
+      year: 2018
+      description: Intersport.id, partner for Pria Punya Selera to get variety in-depth and up to date information about soccer & automotive.
+      contribution: Creator and maintainer.
+      tech: Swift, Realm, CFNetwork, Alamofire.
+      links: 
+        - url: https://apps.apple.com/id/app/intersport-id/id1442219066?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+          
+    - name: Eazy Attendance Garuda Maintenance Facility
+      year: 2019
+      description: Offline Attendance app using BLE, auto detect check in & checkout using bluetooth technology and GPS.
+      contribution: Creator and maintainer.
+      tech: Swift, Core Data, CoreBluetooth, Alamofire.
+      company: Self Employee / Freelance.
+      
+    - name: PulauIndahJaya App
+      year: 2017
+      description: Pulau Indah Jaya is an application for booking bus tickets, under copyright PO. Pulau Indah Jaya. This app built using swift with functional & protocol oriented programing (POP).
+      contribution: Creator and maintainer.
+      tech: Objective C, Swift, Core Data, CFNetwork, AFNetworking.
+      links: 
+        - url: https://apps.apple.com/id/app/pulauindahjaya/id1200281364?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+          
+    - name: INAPEX
+      year: 2017
+      description: Indonesian Property Exhibition app.<br />
+                - Property listing<br />
+                - Register and participate in the IPEX Annual Exhibition
+      contribution: Creator and maintainer.
+      tech: Swift, Core Data, CFNetwork, AFNetworking.
+      links: 
+        - url: https://apps.apple.com/id/app/intersport-id/id1442219066?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+          
+    - name: Europalia ID
+      year: 2017
+      description: Europalia ID is an app for display event and news Indonesian arts and culture festival in Europe.
+      contribution: Creator and maintainer.
+      tech: Swift, Core Data, CFNetwork, AFNetworking.
+      links: 
+        - url: https://apps.apple.com/id/app/europalia-id/id1294329888?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+          
+    - name: Hangout.Deals
+      year: 2016-2017
+      description: Hangout.Deals is the latest e-commerce discount application in Indonesia that provides wider services than other discount applications.
+                  Hangout.Deals has 3 level, Admin, Merchant & end user. And has 1 white label for Fortune store.
+      contribution: Creator and maintainer.
+      tech: Swift, Realm, CFNetwork, Alamofire.
+      links: 
+        - url: https://apps.apple.com/id/app/hangout-deals/id1125903817?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+          
+    - name: CallJack
+      year: 2015
+      description: Online Ojek reservation app for local Ojek in Yogyakarta.
+      contribution: Creator and maintainer.
+      tech: Objective C, Swift, Core Data, CFNetwork, AFNetworking, Web Socket.
+      links: 
+        - url: https://apps.apple.com/id/app/calljack-your-personal-ride/id1060008687?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+          
+    - name: Cared Safety Confirmation JP
+      year: 2016
+      description: Cared Safety Confirmation is a large-scale disaster information and prediction system in the form of a mobile application. This application was developed since the end of 2013 by the Institute of International Studies, Gadjah Mada University, OSAKA University. This version is only available for Japan country.
+      contribution: Creator and maintainer.
+      tech: Objective C, Swift, Core Data, CFNetwork, AFNetworking, Web Socket.
+      links: 
+        - url: https://apps.apple.com/id/app/cared-jp/id1364908051?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+          
+    - name: Cared Safety Confirmation
+      year: 2014-2015
+      description: Cared Safety Confirmation is a large-scale disaster information and prediction system in the form of a mobile application. This application was developed since the end of 2013 by the Institute of International Studies, Gadjah Mada University, OSAKA University.
+      contribution: Creator and maintainer.
+      tech: Objective C, Swift, Core Data, CFNetwork, AFNetworking, Web Socket.
+      links: 
+        - url: https://apps.apple.com/id/app/cared-safety-confirmation/id909993111?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+          
+    - name: Sebangsa App
+      year: 2013-2017
+      description: Sebangsa is a new social and mobile platform developed and designed for Indonesian users.
+      contribution: Creator and maintainer.
+      tech: Objective C,Swift, Core Data, CFNetwork.
+      links: 
+        - url: https://apps.apple.com/id/app/sebangsa/id903324257?l=id
+          title: iOS
+      company: PT Sebangsa Bersama.
+          
+    - name: Event Link Pro
+      year: 2013
+      description: Event Exhibition app, check in exhibition, news, info & display all tenants in exhibition.
+      contribution: Creator and maintainer.
+      tech: Objective C, Core Data, CFNetwork, AFNetworking.
+      links: 
+        - url: https://apps.apple.com/id/app/eventlink-expo-solution/id1184823560?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+          
+    - name: Larissa App
+      year: 2015
+      description: Larissa App is an application used for booking, place reservations and online purchases for Larissa products.
+      contribution: Creator and maintainer.
+      tech: Objective C, Core Data, CFNetwork.
+      links: 
+        - url: https://apps.apple.com/id/app/larissa-aesthetic-center/id1163122676?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+
+    - name: Maxx-Diners
+      year: 2015
+      description: Browse and search resto, booking resto.
+      contribution: Creator and maintainer.
+      tech: Objective C, Core Data, CFNetwork.
+      links: 
+        - url: https://apps.apple.com/id/app/Maxx-Diners/id1163122676?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+
+
+    - name: Coachey
+      year: 2015
+      description: Personal Trainer App.
+      contribution: Creator and maintainer.
+      tech: Objective C, Core Data, CFNetwork.
+      links: 
+        - url: https://apps.apple.com/id/app/coachey/id1142119885?l=id
+          title: iOS
+      company: Self Employee / Freelance.
+          
+    - name: Mlibrary UGM
+      year: 2014
+      description: mLibrary UGM is a mobile application to provide information and service to the member of UGM's Central Library.
+                  mLibrary UGM main features include catalog search, book order, reminder for book return, news and events broadcast. mLibrary UGM gives more benefits to the library member by giving opportunity to reserve the book online and get notification to return it in advance and to avoid any fines.
+      contribution: Creator and maintainer.
+      tech: Objective C, Core Data, CFNetwork.
+      links: 
+        - url: https://apps.apple.com/id/app/mlibrary-ugm/id968627880?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+          
+    - name: KalbeMed
+      year: 2013
+      description: mLibrary UGM is a mobile application to provide information and service to the member of UGM's Central Library.
+                  mLibrary UGM main features include catalog search, book order, reminder for book return, news and events broadcast. mLibrary UGM gives more benefits to the library member by giving opportunity to reserve the book online and get notification to return it in advance and to avoid any fines.
+      contribution: Creator and maintainer.
+      tech: Objective C, Core Data, CFNetwork.
+      links: 
+        - url: https://apps.apple.com/id/app/kalbemed/id909200856?l=id
+          title: iOS
+      company: PT Gamatechno Indonesia.
+
+          
   languages:
     - name: English
       proficiency: Work proficiency
-    - name: Mandarin Chinese
+    - name: Bahasa Indonesia
       proficiency: Native

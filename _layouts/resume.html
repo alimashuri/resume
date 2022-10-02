@@ -106,12 +106,18 @@ layout: default
             <div class="block-content">
               Tech: {{ project.tech }}
             </div>
+            {% if project.links %}
             <div class="block-content">
-              Link:
+              Project Link:
               {% for link in project.links %}
-                <a href="{{ link.url }}">{{ link.title }}</a>
+                {% if link.url %}
+                <a href="{{ link.url }}">
+                  {{ link.title }}
+                </a>
+                {% endif %}
               {% endfor %}
             </div>
+            {% endif %}
           </div>
           {% endfor %}
         </div>
