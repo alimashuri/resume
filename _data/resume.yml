@@ -20,7 +20,7 @@ education:
     major: Informatic Engineering
 skills:
   - title: Mobile Engineer
-    items: Mobile engineer with more than several years of experience. I have experiences in a variety of projects from the early stages of concept to completion. Speak Swift, Kotlin and flutter as well.
+    items: Mobile engineer with more than several years of experience. I have experiences in a variety of projects from the early stages of concept to completion. Speak Swift, objective-c, Java, Kotlin and flutter as well. Familiar with realtime socket/xmpp or messaging protocol.
 experience:
   - title: Lead Mobile Engineer
     duration: Jan 2017 - Present
@@ -32,7 +32,16 @@ experience:
                 - Control quality of code<br />
                 - Setup CI/CD for mobile apps<br />
                 - Research for mobile technology<br />
+  - title: iOS Engineer
+    duration: May 2017 - Jul 2017
+    company: PT Ruang Aplikasi Nusantara (WideBoard).
+    description: Working as a remote iOS developer, build chat engine using xmpp protocols.
 
+  - title: iOS Engineer
+    duration: Jan 2013 - Dec 2020
+    company: PT Gamatechno Indonesia.
+    description: Working as a remote iOS developer since 2013, build, publish and maintain native iOS apps, implement client side using socket for realtime apps, suggest for apps design and API security.
+      
   - title: Lead iOS Engineer
     duration: Okt 2012 - Dec 2016
     company: PT Sebangsa Bersama.
@@ -42,10 +51,7 @@ experience:
                 - Prepare project environment, find suitable 3rd party library for sebangsa apps.<br />
                 - Developing, publish and maintenance an iOS application.<br />
                 - Do some reasearch and learn new iOS technology or new SDK Api's.<br />
-  - title: iOS Engineer
-    duration: Jan 2013 - Dec 2020
-    company: PT Gamatechno Indonesia.
-    description: Working as a remote iOS developer since 2013, build, publish and maintain native iOS apps, implement client side using socket for realtime apps, suggest for apps design and API security.
+
   - title: Web Developer
     duration: Jul 2011 - Sep 2012
     company: PT Saling Silang.
@@ -233,6 +239,18 @@ projects:
       - url: https://apps.apple.com/id/app/intersport-id/id1442219066?l=id
         title: iOS
     company: Self Employee / Freelance.
+        
+  - name: Wideboard
+    year: 2017
+    description: Wideboard is a team messenger that helps you connect and without all your team communication.
+    contribution: Creator and maintainer.
+    tech: Swift, Core Data, CFNetwork, Alamofire, XMPP.
+    links: 
+      - url: https://apps.apple.com/id/app/intersport-id/id1442219066?l=id
+        title: iOS
+    company: PT Ruang Aplikasi Nusantara (WideBoard).
+        
+        
         
   - name: Europalia ID
     year: 2017

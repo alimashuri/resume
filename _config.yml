@@ -11,3 +11,5 @@ exclude:
   - /screenshots
   - /fixtures
   - Rakefile
+  - /port-hexo
+  - resume_zh-CN-html
